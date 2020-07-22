@@ -1,0 +1,36 @@
+.cadre_entier { 
+   position: fixed;
+   border: 8px solid black;
+   width: 1400px;
+   height: 600px;
+}
+.perso_1 {
+    position: fixed;
+    top: 20px;
+    border: 6px solid black;
+    margin: 40px;
+    height: 490px;
+    
+}
+.perso_2 {
+    position: fixed;
+    margin: 40px;
+    bottom: 450px;
+    right: 500px;
+    border: 6px solid black;
+    height: 400px;
+}
+.vs {
+    position: fixed;
+    bottom: 660px;
+    right: 1060px;
+}
+h1 {
+    text-align: center;
+}
+.avatar1 {
+    border-bottom: 6px solid black;
+}
+.avatar2 {
+    border-bottom: 6px solid black;
+}
